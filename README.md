@@ -1,1 +1,4 @@
-A whole bunch of games programmed in java. 
+Un montón de juegos programados en java.
+.Tetris
+.Blackjack
+.Ponk
